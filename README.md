@@ -2,7 +2,6 @@
 
 **README for Code 1 - Combine Two Images**
 
-```markdown
 # Combine Two Images
 
 This Python script combines two images into a single image. It uses the OpenCV library to load, concatenate, and save the images. This can be useful for creating image diptychs, side-by-side comparisons, or other image combinations.
@@ -11,7 +10,7 @@ This Python script combines two images into a single image. It uses the OpenCV l
 
 Before running the script, make sure you have the OpenCV library installed. You can install it using pip:
 
-```
+```bash
 pip install opencv-python
 ```
 
@@ -52,13 +51,11 @@ Here's an example of how the script can be used:
 ## License
 
 This script is provided under the MIT License. See the [LICENSE](LICENSE) file for details.
-```
 
----
 
 **README for Code 2 - Crop and Swap Parts of Two Images**
 
-```markdown
+
 # Crop and Swap Parts of Two Images
 
 This Python script demonstrates how to crop specific regions from two images and swap those cropped regions. It uses the OpenCV library for image manipulation. This can be useful for creative image editing and compositing.
@@ -67,7 +64,7 @@ This Python script demonstrates how to crop specific regions from two images and
 
 Before running the script, make sure you have the OpenCV library installed. You can install it using pip:
 
-```
+```bash
 pip install opencv-python
 ```
 
